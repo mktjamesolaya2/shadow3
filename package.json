@@ -1,0 +1,13 @@
+{
+  "name": "magic-shadow-3",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "remove-bg": "node remove-bg.mjs"
+  },
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.4.5",
+    "sharp": "^0.34.5"
+  }
+}
